@@ -4,7 +4,7 @@ title: "Calendar"
 
 # Calendar
 
-
+![Anticipated Schedule](assets/anticipated_schedule.png)
 
 <!--We can just embed the iframe html:
 
