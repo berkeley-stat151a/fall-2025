@@ -4,29 +4,36 @@ title: "Syllabus"
 
 # Syllabus
 
-Jump to:
+ <a href="assets/Syllabus2025Fall.pdf" target='_blank'>Download full syllabus</a><br>
+
+<!--Jump to:
 
 - [About Stat 151a](#about-stat-151a)
   - [Goals](#goals)
-  - [Prerequisites](#prerequisites)
+  - [Prerequisites](#prerequisites)-->
 
 
-(about-stat-151a)=
+
 # About Stat 151a
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur interdum dolor neque, non dignissim augue semper id. Ut aliquam turpis ultrices velit commodo posuere. Phasellus id lobortis urna. Vivamus non purus mollis, pellentesque ligula at, posuere justo. Pellentesque nibh dolor, venenatis non ex a, aliquam semper ligula. Nullam at magna sem. Aliquam ornare orci non consequat convallis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam libero lorem, tempus non laoreet ut, porttitor ac enim. Nunc viverra, purus vel vestibulum ultricies, ex eros pharetra ipsum, quis semper sapien elit eget dolor. Aenean id erat erat. Aenean id quam sit amet eros pellentesque volutpat ac vitae diam. Praesent lobortis tellus augue, nec dignissim mi vulputate non. Praesent ut venenatis est, ut lobortis felis. Vestibulum fermentum fermentum eros, quis molestie lacus.
+Statistics 151A is an upper-division undergraduate course on linear modeling. Topics include the geometry and statistical theory of Gaussian linear models, model selection and shrinkage, diagnostics, logistic regression, and regression splines; students are also required to conduct a substantial amount of data analysis and visualization in R and to give coherent verbal interpretations of linear modeling results. 
 
-Sed nisi ante, gravida finibus faucibus eget, faucibus eu risus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam dictum, dolor id porttitor venenatis, elit leo tincidunt ipsum, id condimentum mauris nibh ut diam. Pellentesque ultricies ultrices pharetra. Morbi egestas est quis enim fermentum pulvinar quis eget enim. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In hac habitasse platea dictumst. Nunc pellentesque laoreet turpis, at sagittis magna congue at. In convallis porttitor fringilla. Donec ullamcorper fermentum bibendum. Proin a erat eget magna faucibus lacinia. Aenean ac nibh ante. Vestibulum viverra hendrerit ipsum vitae lobortis. Maecenas eget sem vitae est finibus bibendum. Nam euismod a risus sit amet interdum.
 
-(goals)=
 ## Goals
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Mauris rutrum ligula nec gravida sollicitudin.
-- Phasellus sagittis justo sit amet odio consequat, ut viverra purus mattis.
+By the end of the semester you should be able to:
 
-(prerequisites)=
+1.	Understand the purposes and benefits of linear modeling in common applied contexts.
+2.	Design and conduct regression analyses in R for common data settings.
+3.	Interpret statistical models, estimates of model parameters, and inferences correctly.
+4.	Evaluate the quality of a regression analysis and suggest improvements.
+5.	Communicate the process and results of a data analysis simply and clearly for a broad audience, using well-organized prose and code and effective data visualizations.
+
 ## Prerequisites
 
 While we are working to make this class widely accessible, we currently require the following (or equivalent) prerequisites. **Prerequisites will be enforced in Stat 151a. It is your responsibility to know the material in the prerequisites.**
+- Stat 135 and its other prequisite courses (including Stat 134).
+- Linear algebra including matrix operations, vector subspaces and projections, rank and invertibility of matrices, and quadratic forms.
+- Familiarity with R (Stat 133 is recommended).
+
 
