@@ -6,27 +6,27 @@ subtitle: "UC Berkeley, Fall 2025"
 ::::{grid} 1 2 2 2
 
 :::{card}
-:header: **Instructor Name**
+:header: **Sam Pimentel**
 
-![Instructor Name](images/firefly-instructor.jpg)
+![Instructor Name](images/sam_headshot.jpg)
 
 +++
 
-* **Office Hours**: Tue 11-12pm (Evans 4019)
-* **Pronouns**: She/Her
-* [instructor@berkeley.edu](mailto:instructor@berkeley.edu)
+* **Office Hours**: Thu 4-5pm, Fri 12-1pm (429 Evans)
+* **Pronouns**: he/him
+* [spi@berkeley.edu](mailto:spi@berkeley.edu)
 :::
 
 :::{card}
-:header: **GSI Name**
+:header: **Florica Constantine**
 
-![GSI Name](images/firefly-gsi.jpg)
+![GSI Name](images/florica_headshot.jpg)
 
 +++
 
-* **Office Hours**: MW 2-3pm (Evans 3137)
-* **Pronouns**: She/Her
-* [gsi-name@berkeley.edu](mailto:gsi-name@berkeley.edu)
+* **Office Hours**: Tue 9am-12pm, Wed 12-1pm (Evans 428)
+* **Pronouns**: she/her
+* [florica@berkeley.edu](mailto:florica@berkeley.edu)
 
 :::
 
