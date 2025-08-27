@@ -77,3 +77,22 @@ title: "Calendar"
   - Quiz #3 Wednesday
   - 14
 
+* - Nov 24
+  - Thanksgiving Break (no lecture on Wed or Fri)
+  -  
+  -  
+
+* - Dec 1
+  - Nonlinear regression, regression trees
+  - HW #5 due Friday
+  - James et al. 7.1–7.4<br>7.7<br>8.1
+
+* - Dec 8
+  - RRR week
+  -  
+  -  
+
+* - Dec 15
+  -  
+  - Final exam: Monday Dec 15, 11:30 am–2:30 pm PST.<br>Final projects due: 11:59 AM, Friday Dec 19
+  -  
