@@ -2,13 +2,78 @@
 title: "Calendar"
 ---
 
-# Calendar
+```{list-table} Anticipated Course Schedule
+:name: anticipated-schedule
+:header-rows: 1
+:align: left
 
-![Anticipated Schedule](assets/anticipated_schedule.png)
+* - **Week**
+  - **Topics**
+  - **Assignments Due & Exams**
+  - **Assigned Reading** (from Fox unless otherwise noted)
 
-<!--We can just embed the iframe html:
+* - Aug 27
+  - Course intro, transformation
+  - 
+  - Ch 3<br>4.1–4.3<br>4.5
 
-:::{iframe} https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&mode=WEEK&src=Y190OGE0MzY1cGhmY20wMGUyOW1oMXVha3Fuc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19wZjBhcmZlYnBndGtiNTJlb25jbzNxMmVwMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19hZWNnMGE0djVlYmdjbDh0amo3cTcyNm9wNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19pZmlxOTA3MGI5OGprMDJoYnI4cDM3djNlc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=c_469240f03417bcbdddb731b455bbff98dba55de11c5afb03fff0657e39522b54%40group.calendar.google.com&color=%237CB342&color=%23795548&color=%233F51B5&color=%23D50000&color=%235229A3
-:width: 800
-an embedded website (could be a calendar)
-:::-->
+* - Sep 1
+  - (no lecture Monday) Transformation and simple regression
+  - 
+  - Ch 5.1<br>Freedman Ch. 1
+
+* - Sep 8
+  - Multiple regression, geometric perspective
+  - 
+  - 5.2<br>10.1–10.2<br>Freedman 2.3–2.4
+
+* - Sep 15
+  - Probability model for multiple regression, collinearity
+  - HW #1 due Friday
+  - 10.3
+
+* - Sep 22
+  - Quiz review; Statistical inference
+  - Quiz #1 Wednesday
+  - 6.1–6.2
+
+* - Sep 29
+  - Categorical variables as predictors
+  - HW #2 due Friday
+  - 9.2 (skip 9.2.1)<br>9.3.1–2<br>9.4.1–3
+
+* - Oct 6
+  - ANOVA
+  - Form project groups by Friday
+  - Ch. 7 (skip 7.2.1)<br>9.1<br>9.2.1<br>10.4
+
+* - Oct 13
+  - Bootstrap
+  - HW #3 due Friday
+  - 21.1–21.4 (skip 21.2.3)
+
+* - Oct 20
+  - Quiz review; Influential Observations, Diagnostics
+  - Quiz #2 Wednesday
+  - 11.1–11.5 (skip 11.3.2)<br>11.7–11.8.2<br>12.1–12.2 (skip 12.1.1, 12.2.2)
+
+* - Oct 27
+  - Interpreting Models; Model Selection
+  - 
+  - 13.2.2<br>22.1 (skip “Closer look at AIC”, “Closer Look at BIC”)
+
+* - Nov 3
+  - Shrinkage methods
+  - HW #4 due Friday
+  - 13.2.3<br>James et al. 6.2 (skip “Bayesian interpretation”)
+
+* - Nov 10
+  - Logistic Regression
+  - Project proposal due Friday
+  - 14.1
+
+* - Nov 17
+  - Binomial logistic model, polytomous outcomes, GLMs
+  - Quiz #3 Wednesday
+  - 14
+
