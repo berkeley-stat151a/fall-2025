@@ -8,7 +8,7 @@ subtitle: "UC Berkeley, Fall 2025"
 :::{card}
 :header: **Sam Pimentel**
 
-![Instructor Name](images/head_shot_151a.jpg)
+![Instructor Name](images/head_shot_151a.jpeg)
 
 +++
 
